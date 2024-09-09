@@ -25,5 +25,5 @@ The Elites Homes project was built to practice and showcase front-end developmen
 - Add map integration to display property locations visually.
 
 **Live Demo**    
-Checkout the live version of the project here
+Checkout the live version of the project here  https://bridgetadeyemi.github.io/Elite-Homes/
   
