@@ -23,4 +23,7 @@ The Elites Homes project was built to practice and showcase front-end developmen
 - Add user account functionality to save favorite properties.    
 - Implement search and filter options for houses based on criteria like price, location, and type.    
 - Add map integration to display property locations visually.
+
+**Live Demo**    
+Checkout the live version of the project here
   
